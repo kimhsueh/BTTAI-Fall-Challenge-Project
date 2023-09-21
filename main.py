@@ -1,5 +1,6 @@
 import pandas as pd
 import os
+import numpy as np
 #import tensorflow as tf
 #testing will this work
 
